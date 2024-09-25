@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 40px;
+    font-family: "Poppins",sans-serif;
+}
+p{
+    font-size: 1.3rem;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.315);
+    margin-top: 10px;
+    font-family: "Poppins",sans-serif;
+}
+button{
+    font-size: 1.5rem;
+    margin-left: 43%;
+    margin-top: 15%;
+    padding: 15px 30px;
+    width: 15%;
+    border-radius: 50px;
+    border: none;
+}
+button:hover{
+    background-color: #cccccc8e;
+}
